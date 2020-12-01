@@ -4,6 +4,9 @@
   "main": "dist/index.cjs.js",
   "module": "dist/index.esm.js",
   "browser": "dist/index.umd.js",
+  "publishConfig": {
+    "access": "public"
+  },
   "repository": "https://github.com/leonied7/vue-validate-form-validators.git",
   "author": {
     "name": "Denis",
